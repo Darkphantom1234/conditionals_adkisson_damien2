@@ -1,0 +1,14 @@
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\bin\Debug\net6.0\conditionals_adkisson_damien2.exe
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\bin\Debug\net6.0\conditionals_adkisson_damien2.deps.json
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\bin\Debug\net6.0\conditionals_adkisson_damien2.runtimeconfig.json
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\bin\Debug\net6.0\conditionals_adkisson_damien2.dll
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\bin\Debug\net6.0\conditionals_adkisson_damien2.pdb
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.AssemblyInfoInputs.cache
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.AssemblyInfo.cs
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.csproj.CoreCompileInputs.cache
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.dll
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\refint\conditionals_adkisson_damien2.dll
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.pdb
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\conditionals_adkisson_damien2.genruntimeconfig.cache
+C:\Users\DamienAdkisson\Documents\GitHub\conditionals_adkisson_damien2\conditionals_adkisson_damien2\obj\Debug\net6.0\ref\conditionals_adkisson_damien2.dll
